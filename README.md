@@ -1,4 +1,3 @@
-# Welcome
 
 **Hi there 👋, I'm Daniil**  
 Welcome to my GitHub profile!
