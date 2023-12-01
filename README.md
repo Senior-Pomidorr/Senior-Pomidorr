@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!
+# Welcome to my profile!
 **Hi there 👋, I'm Daniil, iOS Developer**  
 
 ## **Stack**  
