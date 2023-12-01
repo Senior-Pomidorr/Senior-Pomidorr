@@ -1,7 +1,6 @@
 # Welcome
 
-**Hi there 👋, I'm Daniil**
-
+**Hi there 👋, I'm Daniil**  
 Welcome to my GitHub profile!
 
 ## **Stack**  
