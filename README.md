@@ -5,7 +5,7 @@
 ### **Technical Skills**
 - **Language:** Swift  
 - **Software Design Principles:** OOP, POP, SOLID, DRY, KISS, YAGNI  
-- **Architextures:** MVC, MVP, MVVM, Flux 
+- **Architectures:** MVC, MVP, MVVM, Flux 
 - **Patterns:** Builder, Router, Singleton  
 - **Networking:** REST API, JSON, URLSession, Async/Await, Alamofire  
 ### **Technologies & Tools**
