@@ -1,5 +1,5 @@
 
-**Hi there 👋, I'm Daniil**  
+**Hi there 👋, I'm Daniil, iOS Developer**  
 Welcome to my GitHub profile!
 
 ## **Stack**  
