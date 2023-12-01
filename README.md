@@ -1,6 +1,5 @@
-
+# Welcome to my GitHub profile!
 **Hi there 👋, I'm Daniil, iOS Developer**  
-Welcome to my GitHub profile!
 
 ## **Stack**  
 ### **Technical Skills**
