@@ -6,7 +6,7 @@
 - **Language:** Swift  
 - **Software Design Principles:** OOP, POP, SOLID, DRY, KISS, YAGNI  
 - **Architectures:** MVC, MVP, MVVM, Flux 
-- **Patterns:** Builder, Router, Singleton  
+- **Patterns:** Builder, Router, Singleton, Factory Method  
 - **Networking:** REST API, JSON, URLSession, Async/Await, Alamofire  
 ### **Technologies & Tools**
 - **Data Persistence:** Firebase, CoreData, Realm  
