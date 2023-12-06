@@ -13,8 +13,7 @@
 - **Dependency Management:** SPM, CocoaPods  
 - **User Interface:** UIKit, SwiftUI, AutoLayout  
 - **Frameworks:** Kingfisher, SnapKit, SwiftLint, AVFoundation  
-- **Version Control:** Git  
-- **IDE:** Xcode  
+- **Version Control:** Git   
 
 ## Contact me
 
