@@ -8,7 +8,6 @@
 - **Architectures:** MVC, MVP, MVVM, Flux 
 - **Patterns:** Builder, Router, Singleton, Factory Method  
 - **Networking:** REST API, JSON, URLSession, Async/Await, Alamofire  
-### **Technologies & Tools**
 - **Data Persistence:** Firebase, CoreData, Realm  
 - **Dependency Management:** SPM, CocoaPods  
 - **User Interface:** UIKit, SwiftUI, AutoLayout  
