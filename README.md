@@ -1,8 +1,7 @@
 # Welcome!
 **Hi there 👋, I'm Daniil, iOS Developer**  
 
-## **Stack**  
-### **Technical Skills**
+## **Technical Skills**
 - **Language:** Swift  
 - **Software Design Principles:** OOP, POP, SOLID, DRY, KISS, YAGNI  
 - **Architectures:** MVC, MVP, MVVM, Flux 
