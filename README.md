@@ -17,3 +17,4 @@
 ## Contact me
 
 - LinkedIn: https://www.linkedin.com/in/daniil-kulikovskiy/
+- Telegram: https://t.me/danikulikovskiy
