@@ -2,7 +2,8 @@
 **Hi there 👋, I'm Daniil, iOS Developer**  
 
 ## **Technical Skills**
-- **Language:** Swift  
+- **Language:** Swift
+- **Frameworks:** UIKit, SwiftUI, AutoLayout
 - **Software Design Principles:** OOP, POP, SOLID, DRY, KISS, YAGNI  
 - **Architectures:** MVC, MVP, MVVM, Flux 
 - **Patterns:** Builder, Router, Singleton, Factory Method  
@@ -11,7 +12,7 @@
 - **Concurrency:** GCD, Async/Await
 - **Dependency Management:** SPM, CocoaPods  
 - **User Interface:** UIKit, SwiftUI, AutoLayout  
-- **Frameworks:** Kingfisher, SnapKit, SwiftLint, AVFoundation  
+- **Dependencies:** Kingfisher, SnapKit, SwiftLint, AVFoundation  
 - **Version Control:** Git   
 
 ## Contact me
