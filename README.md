@@ -10,8 +10,7 @@
 - **Networking:** REST API, JSON, URLSession, Async/Await, Alamofire  
 - **Data Persistence:** Firebase, CoreData, Realm
 - **Concurrency:** GCD, Async/Await
-- **Dependency Management:** SPM, CocoaPods  
-- **User Interface:** UIKit, SwiftUI, AutoLayout  
+- **Dependency Management:** SPM, CocoaPods   
 - **Dependencies:** Kingfisher, SnapKit, SwiftLint, AVFoundation  
 - **Version Control:** Git   
 
