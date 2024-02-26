@@ -3,8 +3,7 @@
 
 ## **Technical Skills**
 - **Language:** Swift
-- **Frameworks:** UIKit, SwiftUI, AutoLayout
-- **Software Design Principles:** OOP, POP, SOLID, DRY, KISS, YAGNI  
+- **Frameworks:** UIKit, SwiftUI, AutoLayout  
 - **Architectures:** MVC, MVP, MVVM, Flux 
 - **Patterns:** Builder, Router, Singleton, Factory Method  
 - **Networking:** REST API, JSON, URLSession, Async/Await, Alamofire  
