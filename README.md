@@ -5,7 +5,6 @@
 - **Language:** Swift
 - **Frameworks:** UIKit, SwiftUI, AutoLayout  
 - **Architectures:** MVC, MVP, MVVM, Flux 
-- **Patterns:** Builder, Router, Singleton, Factory Method  
 - **Networking:** REST API, JSON, URLSession, Async/Await, Alamofire  
 - **Data Persistence:** Firebase, CoreData, Realm
 - **Concurrency:** GCD, Async/Await
