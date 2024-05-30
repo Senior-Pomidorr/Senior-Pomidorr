@@ -3,9 +3,9 @@
 
 ## **Technical Skills**
 - **Language:** Swift
-- **Frameworks:** UIKit, SwiftUI, AutoLayout  
+- **Frameworks:** SwiftUI, Combine, UIKit
 - **Architectures:** MVC, MVP, MVVM, Flux 
-- **Networking:** REST API, JSON, URLSession, Async/Await, Alamofire  
+- **Networking:** REST API, JSON, URLSession, Async/Await, Combine
 - **Data Persistence:** Firebase, CoreData, Realm
 - **Concurrency:** GCD, Async/Await
 - **Dependency Management:** SPM, CocoaPods   
