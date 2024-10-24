@@ -7,7 +7,7 @@
 - **Architectures:** MVC, MVP, MVVM, Redux 
 - **Networking:** REST API, JSON, URLSession, Async/Await, Combine
 - **Data Persistence:** Firebase, CoreData, Realm
-- **Concurrency:** GCD, Async/Await
+- **Concurrency:** GCD, Async/Await, OperationQueue
 - **Dependency Management:** SPM, CocoaPods   
 - **Dependencies:** Kingfisher, SnapKit, SwiftLint, AVFoundation  
 - **Version Control:** Git   
