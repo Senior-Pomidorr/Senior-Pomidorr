@@ -5,7 +5,7 @@
 - **Language:** Swift
 - **Frameworks:** SwiftUI, Combine, UIKit
 - **Architectures:** MVC, MVP, MVVM, Redux 
-- **Networking:** REST API, JSON, URLSession, Async/Await, Combine
+- **Networking:** REST API, JSON, URLSession
 - **Data Persistence:** Firebase, CoreData, Realm
 - **Concurrency:** GCD, Async/Await, OperationQueue
 - **Dependency Management:** SPM, CocoaPods   
