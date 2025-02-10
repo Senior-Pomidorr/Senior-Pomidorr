@@ -3,14 +3,13 @@
 
 ## **Technical Skills**
 - **Language:** Swift
-- **Frameworks:** SwiftUI, Combine, UIKit
+- **Frameworks:** SwiftUI, UIKit, Combine, AVFoundation, MapKit, Keychain  
 - **Architectures:** MVC, MVP, MVVM, Redux 
-- **Networking:** REST API, JSON, URLSession
-- **Data Persistence:** Firebase, CoreData, Realm
+- **Networking:** RESTful API, Firebase, Push Notifications
+- **Data Persistence:** CoreData, Realm
 - **Concurrency:** GCD, Async/Await, OperationQueue
-- **Dependency Management:** SPM, CocoaPods   
-- **Dependencies:** Kingfisher, SnapKit, SwiftLint, AVFoundation  
-- **Version Control:** Git   
+- **Instruments:** Xcode, Git, SPM, CocoaPods, Jira, Postman, App Store Connect    
+- **Testing:** Unit Testing, UI Testing  
 
 ## Contact me
 
