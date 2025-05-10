@@ -1,17 +1,24 @@
-# Welcome!
-**Hi there 👋, I'm Daniil, iOS Developer**  
 
-## **Technical Skills**
-- **Language:** Swift
-- **Frameworks:** SwiftUI, UIKit, Combine, AVFoundation, MapKit, Keychain  
-- **Architectures:** MVC, MVP, MVVM, Redux 
-- **Networking:** RESTful API, Firebase, Push Notifications
-- **Data Persistence:** CoreData, Realm
-- **Concurrency:** GCD, Async/Await, OperationQueue
-- **Instruments:** Xcode, Git, SPM, CocoaPods, Jira, Postman, App Store Connect    
-- **Testing:** Unit Testing, UI Testing  
+# 👋 Hi there, I'm Daniil — iOS Developer
+iOS developer with 3.5+ years of experience building scalable apps for edtech and enterprise.  
+I focus on architecture, product usability, and clean, maintainable code.  
+I enjoy working in cross-functional teams, proposing improvements, and delivering features.
 
-## Contact me
 
-- LinkedIn: https://www.linkedin.com/in/daniil-kulikovskiy/
-- Telegram: https://t.me/danikulikovskiy
+## 🛠️ Technical Skills
+
+- **Language:** Swift  
+- **Frameworks:** SwiftUI, UIKit, Combine, AVFoundation, WKWebView, Firebase  
+- **Architectures:** MVVM, MVP, MVC, Redux  
+- **Networking & Security:** REST API, JWT, Keychain, Push Notifications  
+- **Concurrency:** GCD, Async/Await  
+- **Data Persistence:** CoreData  
+- **Tools:** Xcode, Git, Postman, Figma, SwiftLint, Instruments (Time Profiler), SPM, CocoaPods, App Store Connect, Jira  
+- **CI/CD & Workflow:** Xcode Cloud, Fastlane, Code Review (GitHub), Agile/Scrum  
+
+---
+
+## 📫 Contact me
+
+- LinkedIn: [linkedin.com/in/daniil-kulikovskiy](https://www.linkedin.com/in/daniil-kulikovskiy)  
+- Telegram: [@danikulikovskiy](https://t.me/danikulikovskiy)  
