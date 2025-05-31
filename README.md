@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Daniil — iOS Developer
+# 👋 Hi there, I'm Daniil.
 iOS developer with 3.5+ years of experience building scalable apps for edtech and enterprise.  
 I focus on architecture, product usability, and clean, maintainable code.  
 
